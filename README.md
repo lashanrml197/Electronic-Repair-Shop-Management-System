@@ -5,9 +5,9 @@ This system facilitates efficient management of customers, tracking of repair jo
 
 Features :-
 
-Customer Management 
-Repair Management
-Billing and Invoicing
+Customer Management ,
+Repair Management ,
+Billing and Invoicing ,
 Status Checking
 
 Technologies Used :-
